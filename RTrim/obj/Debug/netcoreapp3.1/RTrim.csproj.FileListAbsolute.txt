@@ -1,0 +1,4 @@
+c:\Users\el-co\source\repos\RTrim\RTrim\obj\Debug\netcoreapp3.1\RTrim.csprojAssemblyReference.cache
+c:\Users\el-co\source\repos\RTrim\RTrim\obj\Debug\netcoreapp3.1\RTrim.AssemblyInfoInputs.cache
+c:\Users\el-co\source\repos\RTrim\RTrim\obj\Debug\netcoreapp3.1\RTrim.AssemblyInfo.cs
+c:\Users\el-co\source\repos\RTrim\RTrim\obj\Debug\netcoreapp3.1\RTrim.csproj.CoreCompileInputs.cache

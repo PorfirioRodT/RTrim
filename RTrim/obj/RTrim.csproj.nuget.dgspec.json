@@ -8,7 +8,12 @@
       "restore": {
         "projectUniqueName": "C:\\Users\\el-co\\source\\repos\\RTrim\\RTrimApp\\RTrimApp.csproj",
         "projectName": "RTrimApp",
-        "projectPath": "C:\\Users\\el-co\\source\\repos\\RTrim\\RTrimApp\\RTrimApp.csproj"
+        "projectPath": "C:\\Users\\el-co\\source\\repos\\RTrim\\RTrimApp\\RTrimApp.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
       },
       "frameworks": {
         "net472": {}

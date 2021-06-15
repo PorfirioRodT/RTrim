@@ -6,10 +6,17 @@ using System.Threading.Tasks;
 
 namespace RTrimApp
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
         }
+
+        public static string RTrim(string str){
+
+            return str;
+
+        }
+
     }
 }

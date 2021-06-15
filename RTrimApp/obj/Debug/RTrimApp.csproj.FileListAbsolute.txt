@@ -1,0 +1,7 @@
+c:\Users\el-co\source\repos\RTrim\RTrimApp\bin\Debug\RTrimApp.exe.config
+c:\Users\el-co\source\repos\RTrim\RTrimApp\bin\Debug\RTrimApp.exe
+c:\Users\el-co\source\repos\RTrim\RTrimApp\bin\Debug\RTrimApp.pdb
+c:\Users\el-co\source\repos\RTrim\RTrimApp\obj\Debug\RTrimApp.csprojAssemblyReference.cache
+c:\Users\el-co\source\repos\RTrim\RTrimApp\obj\Debug\RTrimApp.csproj.CoreCompileInputs.cache
+c:\Users\el-co\source\repos\RTrim\RTrimApp\obj\Debug\RTrimApp.exe
+c:\Users\el-co\source\repos\RTrim\RTrimApp\obj\Debug\RTrimApp.pdb

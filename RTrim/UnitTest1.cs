@@ -46,7 +46,7 @@ namespace RTrim
             
             Program program = new Program();
 
-            Assert.That(() => program.RTrim(null), Is.EqualTo("Hola"));
+            Assert.That(() => program.RTrim(null), Is.EqualTo(""));
 
         }
 

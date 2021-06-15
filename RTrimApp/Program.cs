@@ -11,7 +11,9 @@ namespace RTrimApp
         static void Main(string[] args)
         {
 
-            Console.Write("");
+            Console.Write(RTrim(" Hola Amigo      "));
+            Console.Write("Hola amigo");
+            Console.ReadKey();
 
         }
 

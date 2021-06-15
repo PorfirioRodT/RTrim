@@ -17,36 +17,36 @@ namespace RTrim
             Program program = new Program();
             string rightTrimTest = "Hola ";
 
-            Assert.That(() => program.RTrim(rightTrimTest), Is.EqualTo("Hola"));
+            Assert.That(() => Program.RTrim(rightTrimTest), Is.EqualTo("Hola"));
 
         }
 
+        [Test]
         public void RTrimWithSpacesBothSides()
         {
             
             Program program = new Program();
             string rightTrimTest = " Hola ";
 
-            Assert.That(() => program.RTrim(rightTrimTest), Is.EqualTo(" Hola"));
+            Assert.That(() => Program.RTrim(rightTrimTest), Is.EqualTo(" Hola"));
 
         }
 
+        [Test]
         public void RTrimWithSentence()
         {
             
-            Program program = new Program();
             string rightTrimTest = "Hola Amigo ";
 
-            Assert.That(() => program.RTrim(rightTrimTest), Is.EqualTo("Hola Amigo"));
+            Assert.That(() => Program.RTrim(rightTrimTest), Is.EqualTo("Hola Amigo"));
 
         }
 
+        [Test]
         public void RTrimWithNullValues()
         {
             
-            Program program = new Program();
-
-            Assert.That(() => program.RTrim(null), Is.EqualTo(""));
+            Assert.That(() => Program.RTrim(null), Is.EqualTo(""));
 
         }
 
